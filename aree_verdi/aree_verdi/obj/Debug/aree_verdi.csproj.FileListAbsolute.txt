@@ -1,0 +1,6 @@
+C:\Users\apilati\source\repos\aree_verdi\aree_verdi\obj\Debug\aree_verdi.csprojAssemblyReference.cache
+C:\Users\apilati\source\repos\aree_verdi\aree_verdi\bin\Debug\aree_verdi.exe.config
+C:\Users\apilati\source\repos\aree_verdi\aree_verdi\bin\Debug\aree_verdi.exe
+C:\Users\apilati\source\repos\aree_verdi\aree_verdi\bin\Debug\aree_verdi.pdb
+C:\Users\apilati\source\repos\aree_verdi\aree_verdi\obj\Debug\aree_verdi.exe
+C:\Users\apilati\source\repos\aree_verdi\aree_verdi\obj\Debug\aree_verdi.pdb
